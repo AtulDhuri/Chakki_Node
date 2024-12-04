@@ -1,0 +1,21 @@
+{
+  "name": "chakki",
+  "version": "1.0.0",
+  "description": "Pilot project for BE for chakki",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "chakki"
+  ],
+  "author": "Atul",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
